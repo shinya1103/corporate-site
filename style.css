@@ -10,7 +10,7 @@
 }
 
 .top-img{
-    background-image: url(imgs/img01.jpg);
+    background-image: url(imgs/corporate3.jpg);
     background-size: cover;
     background-attachment:fixed;
 }
@@ -34,7 +34,8 @@ nav .fas, nav .far{
 }
 
 .night-sky{
-    background-image: url("imgs/fix-bg.jpg");
+    background-image: url("imgs/corporate4.jpg");
+    background-size: cover;
     padding: 200px 0;
     text-align: center;
     background-attachment:fixed;
